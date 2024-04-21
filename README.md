@@ -2,8 +2,7 @@
                ╱|、
               (˚ˎ 。7  
                |、˜〵          
-               じしˍ,)ノ 
-               Binary
-             Exploitation
+               じしˍ,)ノ
              Vulnerability
-               Research
+              Researcher
+              
