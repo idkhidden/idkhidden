@@ -1,6 +1,21 @@
-![5f934966a1d20bae1909c9ef2278bd4c](https://github.com/idkhidden/idkhidden/assets/91305428/5aad8bc2-956a-441b-ae20-e3c13a6ad712)
+<br clear="both">
 
+<div align="center">
+  <img height="150" src="https://i.pinimg.com/originals/5f/93/49/5f934966a1d20bae1909c9ef2278bd4c.gif"  />
+</div>
 
-                                Vulnerability 
-                                  Researcher
-              
+###
+
+<h4 align="center">Vulnerability <br> Researcher</h4>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://discord.gg/kKHBRC4Dvv" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="35" alt="discord logo"  />
+  </a>
+</div>
+
+###
