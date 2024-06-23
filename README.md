@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="center">Vulnerability Researcher intreasted in 0days, security and windows</h4>
+<h4 align="center">Vulnerability Researcher intreasted in Windows Internal.</h4>
 
 ###
 
