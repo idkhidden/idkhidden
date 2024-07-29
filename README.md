@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="center">Vulnerability Researcher intreasted in Windows Internal.</h4>
+<h4 align="center">17 year old vulnerability researcher interested in Windows internals.</h4>
 
 ###
 
