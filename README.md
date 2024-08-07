@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="center">17 year old security researcher interested in Windows Architecture.</h4>
+<h4 align="center">17 year old security researcher interested in windows architecture.</h4>
 
 ###
 
