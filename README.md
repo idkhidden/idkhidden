@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="center">17 year old security researcher interested in x86-64 architecture.</h4>
+<h4 align="center">17 year old security researcher interested in windows architecture.</h4>
 <h4 align="center">Founder @ReverseSec</h4>
 
 
