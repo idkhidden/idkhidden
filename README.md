@@ -7,8 +7,7 @@
 ###
 
 <h4 align="center">17 year old security researcher interested in windows architecture.</h4>
-<h5 align="center">Founder @ detected.wiki</h5>
-<h5 align="center">Author @ ReverseSec</h5>
+<h5 align="center">Founder @ ReverseSec</h5>
 
 ###
 
