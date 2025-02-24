@@ -6,8 +6,8 @@
 
 ###
 
-<h4 align="center">17 year old security researcher interested in windows architecture.</h4>
-<h5 align="center">Founder @ ReverseSec</h5>
+<h4 align="center">17 year old offensive security researcher interested in application security.</h4>
+<h4 align="center">Founder @ ReverseSec</h4>
 
 ###
 
