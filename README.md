@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="center">17 year old offensive security researcher with a interest in application security.</h4>
+<h4 align="center">17 year old offensive security researcher with a interest in application security and detection engineering.</h4>
 <h4 align="center">Founder @ ReverseSec</h4>
 
 ###
