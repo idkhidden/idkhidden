@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="center">17 y/o interested in breaking application security.</h4>
+<h4 align="center">18 y/o interested in breaking application security.</h4>
 <h4 align="center">Founder @ ReverseSec</h4>
 
 
